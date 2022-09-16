@@ -1,0 +1,13 @@
+{
+  "name": "@groid/storage",
+  "version": "1.0.0",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^18.7.18",
+    "bun-types": "^0.1.0"
+  },
+  "dependencies": {
+    "tsup": "^6.2.3"
+  }
+}
