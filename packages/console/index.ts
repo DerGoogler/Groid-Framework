@@ -88,6 +88,3 @@ const console: Console = new Console();
 
 export default console;
 export { Console };
-
-console.log("<fg-yellow>Nice");
-console.cus("groupEnd", "<fg-red>nice");
